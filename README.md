@@ -14,7 +14,6 @@ I got tired of using VLC to sort through my video files, especially because it d
 - Pause
 - Fullscreen
 - Replay
-- Random
 - Fast forward and backwards
 - Autoplay
 - Random on/off
