@@ -27,6 +27,7 @@ This won't replace a feature rich VLC or MPV but it's great for sorting videos.
 
 # Usage
 
+`pip install python-vlc`
 `chmod +x video-sorter.py`   
 `python video-sorter.py`
 
