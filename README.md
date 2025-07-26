@@ -8,6 +8,7 @@ I got tired of using VLC to sort through my video files, especially because it d
 
 # Features
 
+- Choose your folder
 - You can delete a file while viewing it
 - Go forward/backwards in a folder
 - Pause
@@ -22,4 +23,11 @@ I got tired of using VLC to sort through my video files, especially because it d
 
 # Caveat
 
-This won't replace a feature rich VLC or MPV but it's great for sorting videos
+This won't replace a feature rich VLC or MPV but it's great for sorting videos.
+
+# Usage
+
+~chmod +x video-sorter.py~
+~python video-sorter.py~
+
+You can create a launcher for it too. 
