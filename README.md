@@ -10,10 +10,11 @@ I got tired of using VLC to sort through my video files, especially because it d
 
 - Choose your folder
 - You can delete a file while viewing it
-- Go forward/backwards in a folder
+- Go forward/backwards to view videos in a folder
 - Pause
 - Fullscreen
 - Replay
+- Random
 - Fast forward and backwards
 - Autoplay
 - Random on/off
